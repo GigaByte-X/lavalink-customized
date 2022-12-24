@@ -1,0 +1,26 @@
+{
+   "token": "Bot Token",
+   "prefix": "?",
+   "ownerIDS": [
+      "708727559432699994"
+   ],
+   "status": {
+      "text": "...",
+      "text2": "...",
+      "type": "PLAYING",
+      "url": ""
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "nonssl.freelavalink.ga",
+            "port": 80,
+            "password": "www.freelavalink.ga"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "",
+      "clientSecret": ""
+   }
+}
